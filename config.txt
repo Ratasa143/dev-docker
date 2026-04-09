@@ -1,0 +1,4 @@
+username=admin
+password=12345
+api_key=ABC123XYZ
+token=secret_token_value
